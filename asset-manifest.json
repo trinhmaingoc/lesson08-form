@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson08-form/static/css/main.cc635672.chunk.css",
+    "main.js": "/lesson08-form/static/js/main.8297c8ee.chunk.js",
+    "main.js.map": "/lesson08-form/static/js/main.8297c8ee.chunk.js.map",
+    "runtime-main.js": "/lesson08-form/static/js/runtime-main.f87ca139.js",
+    "runtime-main.js.map": "/lesson08-form/static/js/runtime-main.f87ca139.js.map",
+    "static/js/2.42f6cc0d.chunk.js": "/lesson08-form/static/js/2.42f6cc0d.chunk.js",
+    "static/js/2.42f6cc0d.chunk.js.map": "/lesson08-form/static/js/2.42f6cc0d.chunk.js.map",
+    "index.html": "/lesson08-form/index.html",
+    "precache-manifest.0e61b56d53d2fba83b97e893f83e53a9.js": "/lesson08-form/precache-manifest.0e61b56d53d2fba83b97e893f83e53a9.js",
+    "service-worker.js": "/lesson08-form/service-worker.js",
+    "static/css/main.cc635672.chunk.css.map": "/lesson08-form/static/css/main.cc635672.chunk.css.map",
+    "static/js/2.42f6cc0d.chunk.js.LICENSE.txt": "/lesson08-form/static/js/2.42f6cc0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f87ca139.js",
+    "static/js/2.42f6cc0d.chunk.js",
+    "static/css/main.cc635672.chunk.css",
+    "static/js/main.8297c8ee.chunk.js"
+  ]
+}
